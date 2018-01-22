@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial;
+    font-size: 18px;
+}
+
+
+h1, h2, h3 {
+    font-family: Arial;
+}
+
+h1 {
+    color: green;
+    font-size: 40px;
+
+
+}
+
+h2 {
+    color: goldenrod;
+    font-size: 25px;
+    margin: 10px;
+
+}
+
+h3 {
+    color: #0089ff;
+    margin-left: 600px;
+}
+
+
+p {
+    text-align: justify;
+    margin: 10px;
+    margin-left: 0px;
+
+}
+
+.date {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
